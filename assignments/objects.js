@@ -54,7 +54,7 @@ const Antonietta = {
   "email": "adaine5@samsung.com",
   "gender": "F",
   "multiplyNums": function multiplyNums(num1, num2) {
-    return num1*num;
+    return num1*num2;
   }
 }
 
